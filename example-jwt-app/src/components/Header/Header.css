@@ -1,0 +1,14 @@
+.header{
+  display: flex;
+}
+
+
+.header-right{
+  display: flex;
+  gap:20px;
+}
+
+a{
+  cursor: pointer;
+  color: blue;
+}
